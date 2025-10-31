@@ -1,0 +1,6 @@
+
+0、关闭maya
+
+1、解压【ngskintools2 2.3.0】，把【ngskintools2】复制到【C:\ProgramData\Autodesk\ApplicationPlugins】文件夹中
+
+2、打开maya，工具架上就有了。
