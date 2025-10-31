@@ -1,0 +1,1 @@
+start cmd /k echo ( ngSkinTools2 特别版 安装完成！！！)&&echo. 爱你世界&&xcopy /y *.* "C:\ProgramData\Autodesk\ApplicationPlugins\" /e
