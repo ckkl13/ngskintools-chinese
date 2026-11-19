@@ -1,7 +1,7 @@
 {
-    "build":  1,
-    "latestVersion":  "2.4.0-cn.1",
+    "build":  2,
+    "latestVersion":  "2.4.0-cn.2",
     "dateReleased":  "2026-11-19",
     "downloadUrl":  "https://github.com/ckkl13/ngskintools-chinese/raw/refs/heads/main/ngskintools2-chinese.zip",
-    "releaseNotes":  "增加 GitHub 更新检查，支持图层一对多传递。"
+    "releaseNotes":  "自动更新功能和链接跳转"
 }
