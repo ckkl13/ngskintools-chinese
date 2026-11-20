@@ -1,7 +1,7 @@
 {
-    "build":  4,
-    "latestVersion":  "2.4.0-cn.4",
+    "build":  5,
+    "latestVersion":  "2.4.0-cn.5",
     "dateReleased":  "2026-11-20",
     "downloadUrl":  "https://github.com/ckkl13/ngskintools-chinese/raw/refs/heads/main/ngskintools2-chinese.zip",
-    "releaseNotes":  "工具栏里添加批量限制权重和小权重"
+    "releaseNotes":  "工具栏里添加批量限制权重和小权重,2020更新bug修复"
 }
