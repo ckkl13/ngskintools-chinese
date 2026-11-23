@@ -1,7 +1,7 @@
 {
-    "build":  5,
-    "latestVersion":  "2.4.0-cn.5",
-    "dateReleased":  "2026-11-20",
+    "build":  6,
+    "latestVersion":  "2.4.0-cn.6",
+    "dateReleased":  "2026-11-23",
     "downloadUrl":  "https://github.com/ckkl13/ngskintools-chinese/raw/refs/heads/main/ngskintools2-chinese.zip",
-    "releaseNotes":  "工具栏里添加批量限制权重和小权重,2020更新bug修复"
+    "releaseNotes":  "修复qt6的兼容问题"
 }
