@@ -1,7 +1,7 @@
 {
-    "build":  6,
-    "latestVersion":  "2.4.0-cn.6",
-    "dateReleased":  "2026-11-23",
+    "build":  7,
+    "latestVersion":  "2.4.0-cn.7",
+    "dateReleased":  "2026-11-26",
     "downloadUrl":  "https://github.com/ckkl13/ngskintools-chinese/raw/refs/heads/main/ngskintools2-chinese.zip",
-    "releaseNotes":  "修复qt6的兼容问题"
+    "releaseNotes":  "吸管小优化"
 }
